@@ -5,7 +5,7 @@ class User
     @birthday = "1986/4/20"
     @age = 34
     @birthplace = "Tochigi/Utsunomiya"
-    @hobby = "video game"
+    @hobby = "video Game(PS Vita)"
   end
 
   def introduce
